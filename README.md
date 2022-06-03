@@ -1,7 +1,7 @@
 # ELIZA's granddaughter
 
-I'm experimenting with conversational AI in python.  
-So far it is just a small demo using pre-trained models.
+Just experimenting with conversational AI in python.  
+So far it is only a small demo using pre-trained models.
 
 ### Components:
 * ASR using vosk
@@ -10,10 +10,11 @@ So far it is just a small demo using pre-trained models.
 
 ###  Roadmap:
 * [x] Simple conversation loop
-* [ ] Use offline TTS
+* [x] Use offline TTS
 * [ ] Preprocess user input (punctuation)
 * [ ] Detect user mood/attitude
-* [ ] Custom speaker
-* [ ] Mood of speaker
+* [ ] Custom bot oice
+* [ ] Mood of bot voice
 * [ ] Guided conversation (state, intentions, termination)
+* [ ] Try Nvidia NeMo
 * [ ] Package for integration in other projects

@@ -5,7 +5,7 @@ sys.stdout.flush()
 
 from listen_vosk import listen
 from respond_dialogpt_small import respond
-from speak_gtts import speak
+from speak_espeak import speak
 
 def preprocess(text):
     return text # TODO not implemented

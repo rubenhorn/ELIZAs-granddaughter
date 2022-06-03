@@ -1,5 +1,6 @@
 gTTS
 pygame
+pyttsx3
 sounddevice
 torch
 transformers
